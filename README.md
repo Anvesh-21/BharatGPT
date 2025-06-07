@@ -46,25 +46,35 @@
 
 1. **User Interaction Layer**
     🖥️ Web App (React + Tailwind)
-    📲 Mobile App (Flutter / React Native)
+
+   📲 Mobile App (Flutter / React Native)
+
     🎙️ Voice Assistant (Voice/Text Input)
 
-2. **API Gateway & Microservices**
-    🚦 API Gateway (Spring Cloud)
-    🔹 User Query Service
-    🔹 AI Response Service (ChatGPT)
-    🔹 Speech Processing Service (Whisper + TTS)
-    🔹 Local Info Fetcher (Firestore, SQLite)
+3. **API Gateway & Microservices**
+   🚦 API Gateway (Spring Cloud)
 
-3. **Data Storage & Intelligence**
-    📂 Local DB: SQLite / MySQL (shops, schemes, FAQs)
-    🔍 Live APIs: transport, news, weather
-    ⚡ Cache Layer: Redis/Memcached for fast response
+   🔹 User Query Service
 
-4. **Security Layer**
-    🔐 AES-256 Encryption
-    🔑 JWT Authentication
-    🛡️ OAuth2 + Role-Based Access Control
+   🔹 AI Response Service (ChatGPT)
+
+   🔹 Speech Processing Service (Whisper + TTS)
+
+   🔹 Local Info Fetcher (Firestore, SQLite)
+
+5. **Data Storage & Intelligence**
+   📂 Local DB: SQLite / MySQL (shops, schemes, FAQs)
+
+   🔍 Live APIs: transport, news, weather
+
+   ⚡ Cache Layer: Redis/Memcached for fast response
+
+7. **Security Layer**
+   🔐 AES-256 Encryption
+
+   🔑 JWT Authentication
+
+   🛡️ OAuth2 + Role-Based Access Control
 
 ---
 
@@ -113,7 +123,9 @@ Refer to the /mobile/README.md for native app instructions.
 
 ## 🧪 Example Use Cases
 👨‍🌾 Farmer queries about govt. subsidy schemes via voice
+
 🧕 Rural woman using the app in Hindi to find nearest health center
+
 🧑‍🎓 Student checks exam results and weather with text in Telugu
 
 ## 🛡️ Security
