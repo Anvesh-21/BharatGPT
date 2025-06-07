@@ -1,5 +1,5 @@
 # BharatGPT
-# 🇮🇳 BharatGPT – AI for Everyday India
+# BharatGPT – AI for Everyday India
 
 > Scalable, Secure, and Smart Multilingual AI for Bharat
 
@@ -45,13 +45,15 @@
 ### 🔷 **Layered System Architecture**
 
 1. **User Interaction Layer**
-    🖥️ Web App (React + Tailwind)
+
+   🖥️ Web App (React + Tailwind)
 
    📲 Mobile App (Flutter / React Native)
 
     🎙️ Voice Assistant (Voice/Text Input)
 
 3. **API Gateway & Microservices**
+
    🚦 API Gateway (Spring Cloud)
 
    🔹 User Query Service
@@ -63,13 +65,15 @@
    🔹 Local Info Fetcher (Firestore, SQLite)
 
 5. **Data Storage & Intelligence**
-   📂 Local DB: SQLite / MySQL (shops, schemes, FAQs)
+
+    📂 Local DB: SQLite / MySQL (shops, schemes, FAQs)
 
    🔍 Live APIs: transport, news, weather
 
    ⚡ Cache Layer: Redis/Memcached for fast response
 
 7. **Security Layer**
+
    🔐 AES-256 Encryption
 
    🔑 JWT Authentication
