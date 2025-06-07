@@ -113,14 +113,14 @@ Refer to the /mobile/README.md for native app instructions.
 - API throttling and request validation
 
 ## 📂 Folder Structure
-$ tree
+
 BharatGPT/
-├── backend/         # Spring Boot Microservices
-├── frontend/        # React Web UI
-├── mobile/          # Flutter or React Native apps
-├── local-db/        # SQLite and MySQL scripts
-├── scripts/         # Shell scripts for setup
-└── README.md        # Project Overview
+├── backend/ # Spring Boot Microservices
+├── frontend/ # React Web UI
+├── mobile/ # Flutter or React Native apps
+├── local-db/ # SQLite and MySQL scripts
+├── scripts/ # Shell scripts for setup
+└── README.md # Project Overview
 
 ## 🤝 Contributing
 - Pull requests are welcome! To contribute:
