@@ -74,3 +74,71 @@ graph TD
   E --> H[Local Database Query]
   F --> H
   H -->|Processed Response| B
+```
+
+##💡**Key Innovations**
+### Innovation	Description
+🔀 Hybrid AI -->Combines AI + rule-based models for structured replies
+📶 Offline Mode -->Pre-cached DB for rural areas with low connectivity
+🧩 Modular Design -->Plug-and-play microservices for flexible scaling
+🔄 Live Feeds -->Integrated APIs for dynamic updates
+🌍 Edge Computing	 -->Processes speech locally for fast, offline use
+
+## 🚀 Getting Started
+### 1️⃣ Clone the Repository
+git clone https://github.com/yourusername/BharatGPT.git
+cd BharatGPT
+
+### 2️⃣ Backend Setup (Spring Boot)
+cd backend
+./mvnw spring-boot:run
+
+### 3️⃣ Frontend Setup (React)
+cd frontend
+npm install
+npm start
+
+### 4️⃣ Mobile App (Flutter/React Native)
+Refer to the /mobile/README.md for native app instructions.
+
+## 🧪 **Example Use Cases**
+👨‍🌾 Farmer queries about govt. subsidy schemes via voice
+🧕 Rural woman using the app in Hindi to find nearest health center
+🧑‍🎓 Student checks exam results and weather with text in Telugu
+
+## 🛡️ Security
+- AES-256 for encrypting user data
+- JWT tokens for secure sessions
+- OAuth2 + Role-Based Access Control for user permissions
+- API throttling and request validation
+
+## 📂 **Folder Structure**
+graphql
+BharatGPT/
+├── backend/         # Spring Boot Microservices
+├── frontend/        # React Web UI
+├── mobile/          # Flutter or React Native apps
+├── local-db/        # SQLite and MySQL scripts
+├── scripts/         # Shell scripts for setup
+└── README.md        # Project Overview
+
+## 🤝 **Contributing**
+- Pull requests are welcome! To contribute:
+- Fork the repo
+- Create a branch (feature/YourFeature)
+- Commit changes
+- Push and open a PR
+
+### 📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### 🌟 Acknowledgements
+🔹OpenAI (ChatGPT & Whisper)
+🔹Spring Boot Contributors
+🔹Government of India Open Data APIs
+🔹Inspired by the vision of Digital Bharat
+
+### 🔗 Connect
+Project Lead – Anvesh Durgam
+LinkedIn
+📬 Feel free to raise issues or suggest enhancements!
