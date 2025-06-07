@@ -10,11 +10,17 @@
 ## 🔥 Key Features
 
  🗣️ **Multilingual Voice & Text Input** (English, Hindi, Telugu, etc.)
+ 
  🧠 **AI-Powered Q&A** using fine-tuned ChatGPT models
+ 
  🌐 **Local Knowledge Access** (shops, govt. schemes, FAQs)
+ 
  🚆 **Real-time Updates** for news, transport, and weather
+ 
  🔒 **End-to-End Security** (AES encryption, JWT, OAuth2)
+ 
  📶 **Offline Mode** using local SQLite/Firestore databases
+ 
  ⚙️ **Modular Microservices Architecture** for scalability
 
 ---
@@ -142,8 +148,11 @@ BharatGPT/
 
 ### 🌟 Acknowledgements
 🔹OpenAI (ChatGPT & Whisper)
+
 🔹Spring Boot Contributors
+
 🔹Government of India Open Data APIs
+
 🔹Inspired by the vision of Digital Bharat
 
 ### 📄 License
@@ -151,5 +160,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### 🔗 Connect
 Project Lead – Anvesh Durgam
+
 LinkedIn
+
 📬 Feel free to raise issues or suggest enhancements!
