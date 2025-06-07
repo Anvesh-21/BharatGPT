@@ -76,7 +76,7 @@ graph TD
   H -->|Processed Response| B
 ```
 
-##💡**Key Innovations**
+## 💡Key Innovations
 ### Innovation	Description
 🔀 Hybrid AI -->Combines AI + rule-based models for structured replies
 📶 Offline Mode -->Pre-cached DB for rural areas with low connectivity
@@ -101,7 +101,7 @@ npm start
 ### 4️⃣ Mobile App (Flutter/React Native)
 Refer to the /mobile/README.md for native app instructions.
 
-## 🧪 **Example Use Cases**
+## 🧪 Example Use Cases
 👨‍🌾 Farmer queries about govt. subsidy schemes via voice
 🧕 Rural woman using the app in Hindi to find nearest health center
 🧑‍🎓 Student checks exam results and weather with text in Telugu
@@ -112,8 +112,8 @@ Refer to the /mobile/README.md for native app instructions.
 - OAuth2 + Role-Based Access Control for user permissions
 - API throttling and request validation
 
-## 📂 **Folder Structure**
-graphql
+## 📂 Folder Structure
+$ tree
 BharatGPT/
 ├── backend/         # Spring Boot Microservices
 ├── frontend/        # React Web UI
@@ -122,7 +122,7 @@ BharatGPT/
 ├── scripts/         # Shell scripts for setup
 └── README.md        # Project Overview
 
-## 🤝 **Contributing**
+## 🤝 Contributing
 - Pull requests are welcome! To contribute:
 - Fork the repo
 - Create a branch (feature/YourFeature)
