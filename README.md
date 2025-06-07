@@ -9,13 +9,13 @@
 
 ## 🔥 Key Features
 
-- 🗣️ **Multilingual Voice & Text Input** (English, Hindi, Telugu, etc.)
-- 🧠 **AI-Powered Q&A** using fine-tuned ChatGPT models
-- 🌐 **Local Knowledge Access** (shops, govt. schemes, FAQs)
-- 🚆 **Real-time Updates** for news, transport, and weather
-- 🔒 **End-to-End Security** (AES encryption, JWT, OAuth2)
-- 📶 **Offline Mode** using local SQLite/Firestore databases
-- ⚙️ **Modular Microservices Architecture** for scalability
+ 🗣️ **Multilingual Voice & Text Input** (English, Hindi, Telugu, etc.)
+ 🧠 **AI-Powered Q&A** using fine-tuned ChatGPT models
+ 🌐 **Local Knowledge Access** (shops, govt. schemes, FAQs)
+ 🚆 **Real-time Updates** for news, transport, and weather
+ 🔒 **End-to-End Security** (AES encryption, JWT, OAuth2)
+ 📶 **Offline Mode** using local SQLite/Firestore databases
+ ⚙️ **Modular Microservices Architecture** for scalability
 
 ---
 
@@ -39,26 +39,26 @@
 ### 🔷 **Layered System Architecture**
 
 1. **User Interaction Layer**
-   - 🖥️ Web App (React + Tailwind)
-   - 📲 Mobile App (Flutter / React Native)
-   - 🎙️ Voice Assistant (Voice/Text Input)
+    🖥️ Web App (React + Tailwind)
+    📲 Mobile App (Flutter / React Native)
+    🎙️ Voice Assistant (Voice/Text Input)
 
 2. **API Gateway & Microservices**
-   - 🚦 API Gateway (Spring Cloud)
-   - 🔹 User Query Service
-   - 🔹 AI Response Service (ChatGPT)
-   - 🔹 Speech Processing Service (Whisper + TTS)
-   - 🔹 Local Info Fetcher (Firestore, SQLite)
+    🚦 API Gateway (Spring Cloud)
+    🔹 User Query Service
+    🔹 AI Response Service (ChatGPT)
+    🔹 Speech Processing Service (Whisper + TTS)
+    🔹 Local Info Fetcher (Firestore, SQLite)
 
 3. **Data Storage & Intelligence**
-   - 📂 Local DB: SQLite / MySQL (shops, schemes, FAQs)
-   - 🔍 Live APIs: transport, news, weather
-   - ⚡ Cache Layer: Redis/Memcached for fast response
+    📂 Local DB: SQLite / MySQL (shops, schemes, FAQs)
+    🔍 Live APIs: transport, news, weather
+    ⚡ Cache Layer: Redis/Memcached for fast response
 
 4. **Security Layer**
-   - 🔐 AES-256 Encryption
-   - 🔑 JWT Authentication
-   - 🛡️ OAuth2 + Role-Based Access Control
+    🔐 AES-256 Encryption
+    🔑 JWT Authentication
+    🛡️ OAuth2 + Role-Based Access Control
 
 ---
 
@@ -119,6 +119,7 @@ Refer to the /mobile/README.md for native app instructions.
 ## 📂 Folder Structure
 
 BharatGPT/
+
 ├── backend/ # Spring Boot Microservices
 
 ├── frontend/ # React Web UI
@@ -138,8 +139,6 @@ BharatGPT/
 - Commit changes
 - Push and open a PR
 
-### 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### 🌟 Acknowledgements
 🔹OpenAI (ChatGPT & Whisper)
@@ -147,7 +146,15 @@ This project is licensed under the MIT License. See the LICENSE file for details
 🔹Government of India Open Data APIs
 🔹Inspired by the vision of Digital Bharat
 
+
+### 📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 ### 🔗 Connect
+
 Project Lead – Anvesh Durgam
+
 LinkedIn
+
 📬 Feel free to raise issues or suggest enhancements!
