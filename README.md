@@ -146,15 +146,10 @@ BharatGPT/
 🔹Government of India Open Data APIs
 🔹Inspired by the vision of Digital Bharat
 
-
 ### 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-
 ### 🔗 Connect
-
 Project Lead – Anvesh Durgam
-
 LinkedIn
-
 📬 Feel free to raise issues or suggest enhancements!
