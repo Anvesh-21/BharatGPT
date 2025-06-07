@@ -79,9 +79,13 @@ graph TD
 ## 💡Key Innovations
 ### Innovation	Description
 🔀 Hybrid AI -->Combines AI + rule-based models for structured replies
+
 📶 Offline Mode -->Pre-cached DB for rural areas with low connectivity
+
 🧩 Modular Design -->Plug-and-play microservices for flexible scaling
+
 🔄 Live Feeds -->Integrated APIs for dynamic updates
+
 🌍 Edge Computing	 -->Processes speech locally for fast, offline use
 
 ## 🚀 Getting Started
@@ -116,10 +120,15 @@ Refer to the /mobile/README.md for native app instructions.
 
 BharatGPT/
 ├── backend/ # Spring Boot Microservices
+
 ├── frontend/ # React Web UI
+
 ├── mobile/ # Flutter or React Native apps
+
 ├── local-db/ # SQLite and MySQL scripts
+
 ├── scripts/ # Shell scripts for setup
+
 └── README.md # Project Overview
 
 ## 🤝 Contributing
